@@ -1,4 +1,4 @@
-# Fullstack App Flask & React
+# Fullstack Flask - React App
 
 Backend in Python Flask (data persistence in postgres database)
 
